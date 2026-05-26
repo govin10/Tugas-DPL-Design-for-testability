@@ -23,4 +23,8 @@ function createGear($pdo, $user_id, $name, $type, $is_gore_tex, $notes)
         $is_gore_tex,
         $notes
     ]);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8c85b9fa4c81368ca7666258f4bab2ce0c6c87f7
